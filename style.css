@@ -1,0 +1,13 @@
+.heading{
+    color: rgb(86, 33, 33);
+}
+.paragraph{
+    color: rgb(230, 1, 1);
+}
+p{
+    background-color: rgb(2, 2, 59);
+    color: antiquewhite;
+}
+#logo{
+    width: 250px;
+}
